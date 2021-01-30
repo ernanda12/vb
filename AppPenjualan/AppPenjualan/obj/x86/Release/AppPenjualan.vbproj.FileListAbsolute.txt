@@ -1,0 +1,4 @@
+D:\VB.NET APLIKASI penjualan part1\AppPenjualan\AppPenjualan\obj\x86\Release\AppPenjualan.FormLogin.resources
+D:\VB.NET APLIKASI penjualan part1\AppPenjualan\AppPenjualan\obj\x86\Release\AppPenjualan.FormMenuUtama.resources
+D:\VB.NET APLIKASI penjualan part1\AppPenjualan\AppPenjualan\obj\x86\Release\AppPenjualan.Resources.resources
+D:\VB.NET APLIKASI penjualan part1\AppPenjualan\AppPenjualan\obj\x86\Release\AppPenjualan.vbproj.GenerateResource.Cache
